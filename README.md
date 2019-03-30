@@ -3,5 +3,5 @@ Artificial Neural Network in Python. This ANN with backpropogation is applied to
 For activation function used sigmoid.
 
 ## Input file
-The data set is stired in "train.csv". This data is divided to train, validation and test sets.
+The data set is stored in "train.csv". This data is divided to train, validation and test sets.
 
