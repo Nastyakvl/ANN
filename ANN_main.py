@@ -41,7 +41,7 @@ def readData(file_Name):
     
 
 def main():
-    X,Y = readData('assignment5_train.csv')
+    X,Y = readData('train.csv')
     
 
     
